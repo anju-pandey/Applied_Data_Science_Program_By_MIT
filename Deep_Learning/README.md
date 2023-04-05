@@ -12,3 +12,6 @@ The SVHN dataset contains over 600,000 labeled digits cropped from street-level 
 <b>Objectives:</b>
 - To build a feed-forward neural network model that can recognize the digits in the images.
 - To build a CNN model that can recognize the digits in the images.
+
+Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/2723743cdc3d941c8ebc6d1c80875f7856bae8f6/Deep_Learning/AnjuPandey_ANN.html"> ANN project file.</a>
+Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/2723743cdc3d941c8ebc6d1c80875f7856bae8f6/Deep_Learning/AnjuPandey_CNN.html"> CNN project file.</a>
