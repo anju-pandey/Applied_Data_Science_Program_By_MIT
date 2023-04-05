@@ -23,4 +23,11 @@ Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anj
 Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_FinalReport.html"> Final submission project file.</a>
 <br>
 Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_FacialExpressionRecognistion_Report.pdf"> Final Submission PDF Presentaion.</a>
+<br><br>
+<b>Live Presentation:</b><br>
+This was the final stage of the Capstone Project where final report of the project was presented. 
+<br>
+Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_FacialExpressionRecognistion_Live.pdf"> Live- PDF Presentaion.</a>
+<br>
+Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_FacialExpressionRecognistion_Live.pdf"> Live- Video Presentaion.</a>
 
