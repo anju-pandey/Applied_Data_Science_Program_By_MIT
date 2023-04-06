@@ -13,7 +13,7 @@ This project was done in three stages:<br><br>
 Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_Facial_Emotion_Detection_Milestone%2B1.html
 "> Milestone-1 project file.</a>
 <br>
-Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_Facial_Emotion_Recognition_Presentation.pdf"> Milestone-1 PDF Presentaion.</a><br><br>
+Click here to open<a href="https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_Facial_Emotion_Recognition_Presentation.pdf"> Milestone-1 PDF Presentaion.</a><br><br>
 <b><u>Milestone-2:</u></b><br>
 Click here to open<a href="https://htmlpreview.github.io/?https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/AnjuPandey_Facial_Emotion_Detection_Milestone%2B2.html
 "> Milestone-2 project file.</a>
