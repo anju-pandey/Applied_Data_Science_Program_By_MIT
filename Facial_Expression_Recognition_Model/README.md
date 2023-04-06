@@ -31,5 +31,5 @@ Click here to open<a href="https://github.com/anju-pandey/Applied_Data_Science_P
 <br>
 Click here to open<a href="https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/MIT_Live_Presentation_Part_1.mp4"> Live- Video Presentaion Part-1.</a>
 <br>
-Click here to open<a href="https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/MIT_Live_Presentation_Part_1.mp4"> Live- Video Presentaion Part-2.</a>
+Click here to open<a href="https://github.com/anju-pandey/Applied_Data_Science_Program_By_MIT/blob/main/Facial_Expression_Recognition_Model/MIT_Live_Presentation_Part_2.mp4"> Live- Video Presentaion Part-2.</a>
 
